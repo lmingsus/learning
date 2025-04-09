@@ -1,0 +1,23 @@
+### 章節分配
+- 柯克(Ko Ko)：Ch.4, 5, 10, 11, 14
+- 陳葵懋 (Ian Chen)：Ch.1, 6, 9, 12, 15
+- Ryan Chung：Ch.2, 3, 7, 8, 13
+
+### 錯誤
+p.5-23
+應為：if int(time.time()) % 2 == 0:
+因為 time.time() 有小數點，所以 % 2 永遠 != 0。
+
+p.5-27
+因為 "topic": RunnablePassthrough() ，
+所以應為 result = couplet_generation_system.invoke("生成式AI")
+
+p.5-29
+同上。
+
+p.8-16
+第一行：single
+
+Ch.12
+https://github.com/iangithub/LangChainLearnBook/blob/main/CH12/ch12/ch12/00_qdrant_advance.py
+第二行多餘

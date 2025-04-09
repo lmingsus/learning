@@ -1,8 +1,11 @@
 # LangChain 奇幻旅程
 
 此儲存庫記錄了我在學習 LangChain 時的練習和實作。
+
 使用《LangChain 奇幻旅程：OpenAI x Gemini x 多模態應用開發指南》
-https://www.books.com.tw/products/0011002007
+
+https://www.tenlong.com.tw/products/9786263339729
+
 ISBN-13: 9786263339729
 
 ## 說明
