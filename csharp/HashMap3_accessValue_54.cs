@@ -40,7 +40,7 @@ class HashMap3
         }
     }
 
-    static void Main(string[] args)
+    static void Main0(string[] args)
     {
         // Read in a dictionary in JSON format: {"key1":value1,"key2":value2}
         string dictionaryInput = Console.ReadLine();

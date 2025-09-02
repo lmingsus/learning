@@ -82,7 +82,7 @@ class HashMap7
     }
 
 
-    static void Main(string[] args)
+    public void Main0(string[] args)
     {
         // Check if first line might be JSON
         string firstLine = Console.ReadLine();

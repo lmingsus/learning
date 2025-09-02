@@ -27,7 +27,7 @@ class NullHandling2
 
     }
 
-    static void Main(string[] args)
+    public void Main0(string[] args)
     {
         string input = Console.ReadLine() ?? "null";
 

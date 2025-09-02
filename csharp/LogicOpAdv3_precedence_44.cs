@@ -39,7 +39,7 @@ class LogicOpAdv3
         return (a > b || a == c) && b < c;
     }
 
-    static void Main(string[] args)
+    public void Main0(string[] args)
     {
         Console.WriteLine("Enter three integers:");
         int a = int.Parse(Console.ReadLine() ?? "0");

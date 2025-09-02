@@ -104,7 +104,7 @@ class HashMap5
         return data;
     }
 
-    static void Main(string[] args)
+    public void Main0(string[] args)
     {
         // Initialize a dictionary with some data
         Dictionary<string, int> data = new Dictionary<string, int>

@@ -29,7 +29,7 @@ class HashMap1
         return fruitInventory;
     }
 
-    static void Main(string[] args)
+    public void Main0(string[] args)
     {
         Dictionary<string, int> inventory = CreateFruitInventory();
 

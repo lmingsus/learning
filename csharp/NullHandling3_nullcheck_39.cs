@@ -1,5 +1,10 @@
 // Null Reference Basics
 /*
+if (name == null)
+{
+    Console.WriteLine("Name is null");
+}
+
 string name = null;
 int? length = name?.Length;  // length will be null
 

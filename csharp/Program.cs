@@ -383,6 +383,9 @@ public class Program
             case "37":
                 new NullHandling1().Main0();
                 break;
+            case "61":
+                new HashSet1().Main0();
+                break;
             default:
                 Console.WriteLine("無效的題目編號");
                 break;

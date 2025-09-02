@@ -88,7 +88,7 @@ class HashMap6
     }
 
 
-    static void Main(string[] args)
+    public void Main0(string[] args)
     {
         Dictionary<string, int> inputDict = new Dictionary<string, int>();
 

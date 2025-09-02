@@ -76,7 +76,7 @@ class HashMap4
         }
     }
 
-    static void Main(string[] args)
+    public void Main0(string[] args)
     {
         Dictionary<string, int> inventory = new Dictionary<string, int>();
 
