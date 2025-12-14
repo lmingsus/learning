@@ -42,7 +42,7 @@
   - 站點剩餘車輛的時序分析
   - 使用 Python 進行數據可視化 (`plot_month_count.py`)
 
-### 5. P (`/`)ython Decorator 介紹 (`/python_decorator`)
+### 5. Python Decorator 介紹 (`/python_decorator`)
 
 此專案旨在深入理解與實踐 Python Decorator。
 
